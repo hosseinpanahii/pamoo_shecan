@@ -32,5 +32,6 @@ ansible-playbook site.yml -i inventory.ini -b
 ```
 
 #NOTE: use ansible with latest version .also this version is compatible with ubuntu 22.04
+
 #source link: https://github.com/sudoix
 
